@@ -22,8 +22,6 @@ for dictionary in people1:
     for value in dictionary:
         print(value,":", dictionary[value])
 
-
-
 for key in people2:
     print("ID:", key)
     for key2 in people2[key]:
