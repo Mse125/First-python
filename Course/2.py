@@ -10,7 +10,7 @@ print(imiona[1])
 
 '''
 
-imiona = ["Wojtek","Lukasz","Seba","Zbychu"]
+imiona = ["Wojtek","Lukasz","Sebastian","Zbychu"]
 
 '''
 if ("Tobi" in imiona):
