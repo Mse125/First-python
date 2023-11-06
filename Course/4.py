@@ -3,3 +3,4 @@ pokoje.update({71: 'Tomasz Robal'})
 pokoje.pop(61)
 print(pokoje[51])
 print(pokoje)
+  
