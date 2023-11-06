@@ -13,3 +13,4 @@ listagosci2 = {
 print(listagosci)
 listagosci3 = listagosci | listagosci2
 print(listagosci3)
+  
