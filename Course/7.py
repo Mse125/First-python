@@ -21,14 +21,14 @@ people2 = {
 for dictionary in people1:
     for value in dictionary:
         print(value,":", dictionary[value])
-'''
 
-"""""
+
+
 for key in people2:
     print("ID:", key)
     for key2 in people2[key]:
         print(key2,people2[key][key2])
-"""""
+'''
 
 for id, dictionary in people2.items():
     print("identyfikator", id)
