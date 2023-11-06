@@ -29,3 +29,4 @@ while(True):
     elif (wybor == "4"):
         print("Program został zakonczony")
         break
+
