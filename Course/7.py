@@ -32,3 +32,4 @@ for id, dictionary in people2.items():
     print("identyfikator", id)
     for key in dictionary:
         print(key, dictionary[key])
+ 
