@@ -12,4 +12,3 @@ while zgadywanaliczba != szukanaliczba:
     
     else: 
         print("za duza")
-
