@@ -4,3 +4,4 @@ pokoje.pop(61)
 print(pokoje[51])
 print(pokoje)
   
+ 
