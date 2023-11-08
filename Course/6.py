@@ -8,7 +8,7 @@ listagosci2 = {
     ('Aro', 50, 'mezczyzna'),
     ('r', 43, 'mezczyzna'),
     ('s', 65, 'kobieta')
-}
+} 
 
 print(listagosci)
 listagosci3 = listagosci | listagosci2
