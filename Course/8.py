@@ -5,7 +5,7 @@ while(True):
     print("2. Wyszukaj definicje")
     print("3. Usun definicje")
     print("4. Zakoncz program")
-
+ 
     wybor = input("Co chcesz zrobic: ")
 
     if (wybor == "1"):
