@@ -1,5 +1,5 @@
 slownik= {}
-
+ 
 while(True):
     print("1. Pokaz slownik: ")
     print("2. Znajdz definicje: ")
