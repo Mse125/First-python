@@ -2,7 +2,7 @@ lista1 = [881, 61, 71, 841, 91]
 lista2= ["Tomasz","Zbychu"]
 
 print(len(lista1))
- 
+  
 lista1.append(100)
 print(lista1)
 
