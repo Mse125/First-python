@@ -9,7 +9,7 @@ print(imiona)
 print(imiona[1])
 
 '''
-
+ 
 imiona = ["Wojtek","Lukasz","Sebastian","Zbychu"]
 
 '''
