@@ -1,7 +1,7 @@
 '''
 imiona = ["as", "ad", "af"]
   
-# for imie in imiona:
+# for imie in imiona: 
     # print(imie)
       
 imiona[1] = "adf"
