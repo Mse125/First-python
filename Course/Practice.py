@@ -12,7 +12,7 @@ while(True):
     
     if wybor == ("1"):
         print(slownik)
-        
+         
     if wybor == ("2"):
         klucz = input("Podaj szukana definicje: "),
         if klucz in slownik:
