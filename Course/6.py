@@ -4,7 +4,7 @@ listagosci = {
     ('Sofia', 65, 'kobieta')
 }
 
-listagosci2 = {
+listagosci2 = { 
     ('Aro', 50, 'mezczyzna'),
     ('r', 43, 'mezczyzna'),
     ('s', 65, 'kobieta')
