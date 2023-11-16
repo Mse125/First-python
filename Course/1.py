@@ -1,4 +1,4 @@
-szukanaliczba = 50 
+szukanaliczba = 50
 zgadywanaliczba = 0
  
 while zgadywanaliczba != szukanaliczba:
