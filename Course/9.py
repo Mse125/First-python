@@ -1,6 +1,6 @@
 liczby = [1, 2, 3, 4, 5, 6] 
 
-element = [element**2  
+element = [element**2   
            for element in liczby]
 print(element)
 
