@@ -2,7 +2,7 @@ ratings1 = {
     "Aro": (1,4,3,2,6),
     "Tomasz": (5,3,2,6,4) 
    }
-
+ 
 people1 = [
     {'id': 'dsfsdfsdf', 'name': 'seba', 'age': 54},
     {'id': 'dfhgkkkkk', 'name': 'tom', 'age': 66},
