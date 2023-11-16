@@ -5,7 +5,7 @@ print(len(lista1))
   
 lista1.append(100)
 print(lista1)
-
+ 
 lista1.extend([101,201,301])
 print(lista1)
 
