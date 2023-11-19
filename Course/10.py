@@ -5,7 +5,7 @@ nameLengt = {
     name : len(name)
     for name in names
 }
-
+ 
 print(nameLengt)
 
 multiNumber = {
