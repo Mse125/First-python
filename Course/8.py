@@ -1,4 +1,4 @@
-slownik = {}
+slownik = {} 
 
 while(True):
     print("1. Dodaj definicje")
