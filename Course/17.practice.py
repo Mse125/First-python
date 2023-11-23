@@ -2,7 +2,7 @@
 def prostokat(a, b):
         if (b == 0):
             return
-        
+         
         return (a * b)
 
 def kwadrat(a):
