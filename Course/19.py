@@ -11,7 +11,7 @@ def prostokat(a, b):
         return (a * b)
 
 def kwadrat(a):
-    if (a == 0):
+    if (a == 0): 
         return
     
     return (a * a)
