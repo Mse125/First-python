@@ -6,7 +6,7 @@ def wiadomosc_powitalna(imie):
 # wiadomosc_powitalna("Arnold")
 
 imiona = ["aro","benek","arnold"]
-
+ 
 for imie in imiona:
     wiadomosc_powitalna(imie)
     
