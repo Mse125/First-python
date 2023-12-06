@@ -1,7 +1,7 @@
 names = {"Seba", "Luki", "Arnold", "Zenon"}
 numbers = {1,2,3,4,5,6}
  
-nameLengt = {
+nameLengt = { 
     name : len(name)
     for name in names
     if name.startswith("S")
