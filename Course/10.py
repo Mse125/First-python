@@ -2,7 +2,7 @@ names = {"Seba", "Luki", "Arnold", "Zenon"}
 numbers = {1,2,3,4,5,6}
 
 nameLengt = {
-    name : len(name)
+    name : len(name) 
     for name in names
 }
  
