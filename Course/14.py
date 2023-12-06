@@ -5,7 +5,7 @@ numbers = [
     if (number % 5 != 0)
 ]
 
-# for number in numbers:
+# for number in numbers: 
     # print(number)
     
 print(numbers)
