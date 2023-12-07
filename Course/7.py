@@ -6,7 +6,7 @@ ratings1 = {
 people1 = [
     {'id': 'dsfsdfsdf', 'name': 'seba', 'age': 54},
     {'id': 'dfhgkkkkk', 'name': 'tom', 'age': 66},
-    {'id': 'gfhfgjfgj', 'name': 'fot', 'age': 77},
+    {'id': 'gfhfgjfgj', 'name': 'fot', 'age': 77}, 
     {'id': 'dfbdfhdfh', 'name': 'ali', 'age': 88}    
         ]
  
