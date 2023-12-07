@@ -3,7 +3,7 @@ listagosci = {
     ('Roman', 43, 'mezczyzna'),
     ('Sofia', 65, 'kobieta')
 }
-
+ 
 listagosci2 = { 
     ('Aro', 50, 'mezczyzna'),
     ('r', 43, 'mezczyzna'),
