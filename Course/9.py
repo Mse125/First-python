@@ -5,7 +5,7 @@ element = [element**2
 print(element)
 
 parzyste = [(element % 2 == 0) for element in liczby]
-print(parzyste)
+print(parzyste) 
 
 parzyste2 = [element
              for element in liczby
