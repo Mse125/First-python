@@ -5,7 +5,7 @@ while zgadywanaliczba != szukanaliczba:
     zgadywanaliczba = int(input("Podaj liczbę:  "))
 
     if zgadywanaliczba == szukanaliczba: 
-        print("brawo")
+        print("brawo") 
          
     elif zgadywanaliczba < szukanaliczba:
         print("za mala")
