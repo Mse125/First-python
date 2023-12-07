@@ -3,7 +3,7 @@ slownik= {}
 while(True):
     print("1. Pokaz slownik: ")
     print("2. Znajdz definicje: ")
-    print("3. Dodaj definicje: ")
+    print("3. Dodaj definicje: ") 
     print("4. Usun definicje: ")
     print("5. Zakoncz: ")
  
