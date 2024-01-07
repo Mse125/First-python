@@ -3,7 +3,7 @@ zgadywanaliczba = 0
      
 while zgadywanaliczba != szukanaliczba:
     zgadywanaliczba = int(input("Podaj liczbę:  "))
- 
+  
     if zgadywanaliczba == szukanaliczba: 
         print("brawo") 
          
