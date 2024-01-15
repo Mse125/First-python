@@ -6,7 +6,7 @@ while zgadywanaliczba != szukanaliczba:
    
     if zgadywanaliczba == szukanaliczba: 
         print("brawo") 
-           
+          
     elif zgadywanaliczba < szukanaliczba:
         print("za mala")
     
