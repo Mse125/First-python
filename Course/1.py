@@ -1,5 +1,5 @@
 szukanaliczba = 50
-zgadywanaliczba = 0 
+zgadywanaliczba = 0
      
 while zgadywanaliczba != szukanaliczba:
     zgadywanaliczba = int(input("Podaj liczbę:  "))
