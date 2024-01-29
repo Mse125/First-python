@@ -3,7 +3,7 @@ liczby = [1, 2, 3, 4, 5, 6]
 element = [element**2 
            for element in liczby]  
 print(element)
-
+ 
 parzyste = [(element % 2 == 0) for element in liczby]
 print(parzyste) 
 
